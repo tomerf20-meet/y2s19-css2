@@ -15,7 +15,10 @@ p {
     font-size: 24pt;
     background-color: lightgreen;
     opacity: .5;
-    width: 60%;
+    /*width: 60%;*/
+    position: relative;
+    text-align: center;
+    
 }
 
 a {
