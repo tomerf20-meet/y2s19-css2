@@ -16,3 +16,16 @@ p {
 a {
     color:red;
 }
+a:hover {
+	 color: blue;
+}
+a:hover {
+	 background-color: purple;
+}
+#important_paragraphs:hover {
+	background-color: yellow;
+	font-size: 40px;
+}
+.less_important_paragraphs:hover {
+	color: blue;
+}
